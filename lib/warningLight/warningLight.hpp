@@ -2,6 +2,7 @@
 #define warningLight_H_
 
 void ledSetup();
-void ledColorset();
+int ledColorset();
+float radationValue();
 
 #endif
